@@ -55,7 +55,7 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 [Project 7](https://github.com/Hynanie/Hynanie/assets/148435826/874e96c1-8965-43e0-aad3-a371616d1f86)
 
 
-# Self-Strength for Programmer Student
+# Self-Strength
 
 Welcome to my coding journey! 🚀 As a programmer student, I've identified key strengths and attributes that empower my learning and growth in the dynamic world of coding. Here's a glimpse into what makes me a resilient and effective programmer:
 
@@ -71,18 +71,9 @@ My strong analytical skills enable me to break down intricate problems into mana
 ## Collaborative Spirit 👥
 Recognizing the importance of teamwork in the tech world, I actively seek collaboration with peers and mentors. I believe in the power of shared knowledge and diverse perspectives, fostering an environment where ideas flourish and projects thrive. Together, we can achieve more than what can be accomplished individually.
 
-## Resilience in the Face of Challenges 💪
-Coding is a journey filled with challenges, and I meet each obstacle with resilience and determination. I view setbacks as opportunities to learn, adapt, and refine my skills. This perseverance not only strengthens my character but also contributes to the continuous improvement of my coding abilities.
-
-## Commitment to Lifelong Learning 📚
-As a programmer, I recognize that learning is an ongoing process. I am committed to staying curious, seeking out new technologies, and embracing lifelong learning. Whether it's attending workshops, participating in coding communities, or diving into new projects, I thrive on expanding my knowledge base.
-
-## Effective Time Management ⌛
 Efficient time management is crucial in the fast-paced world of programming. I excel in organizing my tasks, setting priorities, and maintaining focus to ensure productivity. This enables me to meet project deadlines and deliver high-quality code consistently.
 
-Feel free to connect with me on this exciting coding journey! Let's learn, grow, and code together. 🖥️✨
-
-# Soft Skills for Programming Student
+# Soft Skills
 
 Greetings! 👋 As a programming student, I recognize the significance of soft skills in complementing technical expertise. Here's a snapshot of the soft skills that define my journey as a well-rounded and effective programmer:
 
@@ -94,9 +85,6 @@ Programming is often a collaborative effort, and I thrive in team environments. 
 
 ## Adaptability to Change 🔄
 In the ever-evolving landscape of technology, adaptability is key. I welcome change, whether it's in the form of new programming languages, frameworks, or project requirements. This flexibility allows me to quickly learn and integrate new technologies, ensuring I stay relevant in the dynamic field of programming.
-
-## Problem-Solving Approach 🤔
-My problem-solving approach extends beyond coding challenges to interpersonal and project-related issues. I tackle issues with a positive mindset, seeking innovative solutions and fostering a constructive environment. This problem-solving mentality contributes to a resilient and efficient team dynamic.
 
 ## Time Management ⌛
 Effective time management is crucial in balancing coursework, projects, and personal growth. I prioritize tasks, set realistic deadlines, and maintain a focus on efficiency without compromising quality. This skill enables me to meet project milestones, academic deadlines, and personal goals.
