@@ -10,6 +10,16 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 * ✉️  You can contact me at [hanani-04@graduate.utm.my](mailto:hanani-04@graduate.utm.my)
 * 🧠  I'm learning to create a video games.
 * 🤝  I'm open to collaboration with skilled programmers and developers to craft dynamic websites, immersive games, and cutting-edge applications that push the boundaries of technology on my portfolio.
+
+* - 📫 How to reach me **hanani-04@graduate.utm.my**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/hynanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hynanie" height="30" width="40" /></a>
+<a href="https://discord.gg/hanaefumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanaefumii" height="30" width="40" /></a>
+</p>
+
+
 ### Skills
 
 # 📊 GitHub Stats:
