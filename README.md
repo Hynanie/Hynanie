@@ -52,7 +52,8 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 [Project 4](https://github.com/Hynanie/Hynanie/assets/148435826/de800fe1-8305-49e9-9262-30836596403b) | 
 [Project 5](https://github.com/Hynanie/Hynanie/assets/148435826/6876be5e-13d4-4d2d-8508-9915b0bf9b65) | 
 [Project 6](https://github.com/Hynanie/Hynanie/assets/148435826/3a8764b4-055e-4471-9d6b-d59c26c8ad7b) | 
-[Project 7](https://github.com/Hynanie/Hynanie/assets/148435826/874e96c1-8965-43e0-aad3-a371616d1f86)
+[Project 7](https://github.com/Hynanie/Hynanie/assets/148435826/874e96c1-8965-43e0-aad3-a371616d1f86) | 
+[Project 8](https://github.com/Hynanie/Hynanie/assets/148435826/e098ad85-f0ed-4420-8dc9-f6abc57e052b)
 
 
 # Self-Strength
