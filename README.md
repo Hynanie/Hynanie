@@ -19,6 +19,20 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 <a href="https://discord.gg/hanaefumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanaefumii" height="30" width="40" /></a>
 </p>
 
+EDUCATION
+•	SEKOLAH MENENGAH KEBANGSAAN KHIR JOHARI (2017-2021)
+•	KOLEJ MATRIKULASI KEDAH (2022-2023)
+•	UNIVERSITI TEKNOLOGI MALAYSIA (2023-2027)
+
+CO-CORRICULUM/ACHIEVEMENTS
+•	HIGH SCHOOL PREFECT (2019-2022)
+•	EXCELLENCE AWARD IN BAHASA MELAYU (2018)
+•	ONLINE UNIVERSITY VISIT – KYUSHU UNIVERSITY (2021)
+•	GIFTED’20-NATIONAL COMIC DRAWING COMPETITION (2020)
+•	FUN RUN JAVA KMK (2023)
+•	TREASURER OF ROBOTIC CLUB (2019)
+•	ART CLUB COMMITTEE MEMBER (2021-2022)
+•	VOLLEYBALL CLUB COMMITTEE MEMBER (2020-2022)
 
 ### Skills
 
