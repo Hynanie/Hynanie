@@ -11,7 +11,7 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 * 🧠  I'm learning to create a video games.
 * 🤝  I'm open to collaboration with skilled programmers and developers to craft dynamic websites, immersive games, and cutting-edge applications that push the boundaries of technology on my portfolio.
 
-* - 📫 How to reach me **hanani-04@graduate.utm.my**
+ 📫 How to reach me **hanani-04@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
