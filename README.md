@@ -12,8 +12,6 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 * 🤝  I'm open to collaboration with skilled programmers and developers to craft dynamic websites, immersive games, and cutting-edge applications that push the boundaries of technology on my portfolio.
 ### Skills
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hynanie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hynanie&theme=dark&hide_border=false)<br/>
