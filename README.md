@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Games developer
 ---------------
 
-i am currently studying on UTM with a bachelor of Computer Science (Graphic and Multimedia) !
+First year student of Computer Science (Graphic and Multimedia) at UTM
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [hanani-04@graduate.utm.my](mailto:hanani-04@graduate.utm.my)
