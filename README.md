@@ -42,6 +42,20 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 - Art Club Committee Member (2021-2022)
 - Volleyball Club Committee Member (2020-2022)
 
+# Work Experience
+
+## Freelancer as Illustrator
+
+[Project 1](https://github.com/Hynanie/Hynanie/assets/148435826/7b566535-f508-4ad9-92ba-29ed078036cf) | 
+[Project 2](https://github.com/Hynanie/Hynanie/assets/148435826/e24228ae-ee2e-4eb5-8f9f-6c23f7762d13) | 
+[Project 3](https://github.com/Hynanie/Hynanie/assets/148435826/36ca1aef-e320-4da1-8a6e-1fb518c6e8a9) | 
+[Project 4](https://github.com/Hynanie/Hynanie/assets/148435826/de800fe1-8305-49e9-9262-30836596403b) | 
+[Project 5](https://github.com/Hynanie/Hynanie/assets/148435826/6876be5e-13d4-4d2d-8508-9915b0bf9b65) | 
+[Project 6](https://github.com/Hynanie/Hynanie/assets/148435826/3a8764b4-055e-4471-9d6b-d59c26c8ad7b) | 
+[Project 7](https://github.com/Hynanie/Hynanie/assets/148435826/874e96c1-8965-43e0-aad3-a371616d1f86)
+
+
+
 ### Skills
 
 # 📊 GitHub Stats:
