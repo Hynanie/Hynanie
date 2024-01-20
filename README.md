@@ -73,10 +73,6 @@ Efficient time management is crucial in the fast-paced world of programming. I e
 
 Greetings! 👋 As a programming student, I recognize the significance of soft skills in complementing technical expertise. Here's a snapshot of the soft skills that define my journey as a well-rounded and effective programmer:
 
-## Effective Communication 🗣️
-Clear communication is at the heart of successful collaboration. I excel in expressing complex technical concepts in a simple, understandable manner, fostering seamless communication with team members, stakeholders, and non-technical counterparts. This skill ensures that everyone involved in a project is on the same page, leading to more efficient workflows and successful outcomes.
-
-## Team Collaboration 👥
 Programming is often a collaborative effort, and I thrive in team environments. I actively contribute ideas, embrace diverse perspectives, and leverage the strengths of each team member. My collaborative spirit enhances creativity, problem-solving, and overall project success.
 
 ## Adaptability to Change 🔄
