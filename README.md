@@ -66,11 +66,6 @@ I approach coding challenges with an insatiable curiosity, always eager to explo
 ## Problem-Solving Mindset 🧠
 With a natural inclination for problem-solving, I embrace coding as a creative process to overcome challenges. I see each bug or error as an opportunity to enhance my skills and develop robust, efficient solutions. The thrill of deciphering complex problems motivates me to push the boundaries of my programming capabilities.
 
-## Strong Analytical Skills 📊
-My strong analytical skills enable me to break down intricate problems into manageable components. This systematic approach helps me understand the core of an issue and devise effective strategies for resolution. It also ensures that my code is not just functional but optimized and scalable.
-
-## Collaborative Spirit 👥
-Recognizing the importance of teamwork in the tech world, I actively seek collaboration with peers and mentors. I believe in the power of shared knowledge and diverse perspectives, fostering an environment where ideas flourish and projects thrive. Together, we can achieve more than what can be accomplished individually.
 
 Efficient time management is crucial in the fast-paced world of programming. I excel in organizing my tasks, setting priorities, and maintaining focus to ensure productivity. This enables me to meet project deadlines and deliver high-quality code consistently.
 
@@ -89,15 +84,6 @@ In the ever-evolving landscape of technology, adaptability is key. I welcome cha
 
 ## Time Management ⌛
 Effective time management is crucial in balancing coursework, projects, and personal growth. I prioritize tasks, set realistic deadlines, and maintain a focus on efficiency without compromising quality. This skill enables me to meet project milestones, academic deadlines, and personal goals.
-
-## Openness to Feedback 🔄
-Feedback is a valuable tool for improvement, and I actively seek and appreciate constructive criticism. I believe in continuous learning, and feedback provides insights that contribute to my personal and professional development. I use feedback as a catalyst for refining my skills and becoming a more effective programmer.
-
-## Empathy and User-Centric Focus ❤️
-Understanding the end user is vital in creating impactful software. I prioritize empathy in my approach, considering the user's perspective and needs. This user-centric focus ensures that the software I contribute to is not only technically sound but also user-friendly and meaningful.
-
-## Leadership Potential 🌐
-While valuing collaboration, I also recognize the importance of leadership. I am proactive in taking on responsibilities, providing guidance to peers, and fostering a positive and inclusive team culture. This leadership potential complements my technical skills, contributing to a well-rounded skill set.
 
 Feel free to connect with me for collaborative projects or discussions on the intersection of soft skills and programming. Let's build a future where technical excellence meets effective communication and collaboration! 💻✨
 
