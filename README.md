@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Games developer
 ---------------
 
-First year student of Computer Science (Graphic and Multimedia) at UTM!
+![photo_2024-01-20_15-31-47](https://github.com/Hynanie/Hynanie/assets/148435826/2863cfe3-39d1-4f6b-a9a0-80a8d152382d)
+
+Hi!! im a first year student of Computer Science (Graphic and Multimedia) at UTM!
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [hanani-04@graduate.utm.my](mailto:hanani-04@graduate.utm.my)
