@@ -19,20 +19,20 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 <a href="https://discord.gg/hanaefumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanaefumii" height="30" width="40" /></a>
 </p>
 
-# Educational Background
+## Educational Background
 
-## Secondary Education
+# Secondary Education
 - **Sekolah Menengah Kebangsaan Khir Johari** (2017-2021)
 
-## Pre-University
+# Pre-University
 - **Kolej Matrikulasi Kedah** (2022-2023)
 
-## University Education
+# University Education
 - **Universiti Teknologi Malaysia** (2023-2027)
 
-# Co-curricular Activities and Achievements
+## Co-curricular Activities and Achievements
 
-## High School and pre-University Involvement
+# High School and pre-University Involvement
 - High School Prefect (2019-2022)
 - Excellence Award in Bahasa Melayu (2018)
 - Online University Visit – Kyushu University (2021)
@@ -42,9 +42,9 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 - Art Club Committee Member (2021-2022)
 - Volleyball Club Committee Member (2020-2022)
 
-# Work Experience
+## Work Experience
 
-## Freelancer as Illustrator
+# Freelancer as Illustrator
 
 [Project 1](https://github.com/Hynanie/Hynanie/assets/148435826/7b566535-f508-4ad9-92ba-29ed078036cf) | 
 [Project 2](https://github.com/Hynanie/Hynanie/assets/148435826/e24228ae-ee2e-4eb5-8f9f-6c23f7762d13) | 
@@ -56,29 +56,29 @@ First year student of Computer Science (Graphic and Multimedia) at UTM
 [Project 8](https://github.com/Hynanie/Hynanie/assets/148435826/e098ad85-f0ed-4420-8dc9-f6abc57e052b)
 
 
-# Self-Strength
+## Self-Strength
 
 Welcome to my coding journey! 🚀 As a programmer student, I've identified key strengths and attributes that empower my learning and growth in the dynamic world of coding. Here's a glimpse into what makes me a resilient and effective programmer:
 
-## Passionate Curiosity 💡
+# Passionate Curiosity 💡
 I approach coding challenges with an insatiable curiosity, always eager to explore new technologies and delve into innovative solutions. This passion fuels my continuous learning, driving me to stay abreast of the latest industry trends and advancements.
 
-## Problem-Solving Mindset 🧠
+# Problem-Solving Mindset 🧠
 With a natural inclination for problem-solving, I embrace coding as a creative process to overcome challenges. I see each bug or error as an opportunity to enhance my skills and develop robust, efficient solutions. The thrill of deciphering complex problems motivates me to push the boundaries of my programming capabilities.
 
 
 Efficient time management is crucial in the fast-paced world of programming. I excel in organizing my tasks, setting priorities, and maintaining focus to ensure productivity. This enables me to meet project deadlines and deliver high-quality code consistently.
 
-# Soft Skills
+## Soft Skills
 
 Greetings! 👋 As a programming student, I recognize the significance of soft skills in complementing technical expertise. Here's a snapshot of the soft skills that define my journey as a well-rounded and effective programmer:
 
 Programming is often a collaborative effort, and I thrive in team environments. I actively contribute ideas, embrace diverse perspectives, and leverage the strengths of each team member. My collaborative spirit enhances creativity, problem-solving, and overall project success.
 
-## Adaptability to Change 🔄
+# Adaptability to Change 🔄
 In the ever-evolving landscape of technology, adaptability is key. I welcome change, whether it's in the form of new programming languages, frameworks, or project requirements. This flexibility allows me to quickly learn and integrate new technologies, ensuring I stay relevant in the dynamic field of programming.
 
-## Time Management ⌛
+# Time Management ⌛
 Effective time management is crucial in balancing coursework, projects, and personal growth. I prioritize tasks, set realistic deadlines, and maintain a focus on efficiency without compromising quality. This skill enables me to meet project milestones, academic deadlines, and personal goals.
 
 Feel free to connect with me for collaborative projects or discussions on the intersection of soft skills and programming. Let's build a future where technical excellence meets effective communication and collaboration! 💻✨
