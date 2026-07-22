@@ -30,7 +30,6 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 
 - 🎓 Final-year student, Bachelor of Computer Science (Graphics & Multimedia Software), Universiti Teknologi Malaysia
 - 🛠️ Building game systems, VR/AR applications, and AI-integrated tools
-- 🏅 Vice Director, EXPEDEA '26 — Computer Graphics & Multimedia Association (CGMA), UTM
 - 🎨 Loves drawing, anime, and all things Japan
 - 🌱 Always learning. Always creating.
 
