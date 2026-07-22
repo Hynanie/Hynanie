@@ -1,7 +1,8 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hynanie)
+
 
 <div align="center">
-
+  
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hynanie)
 <img src="assets/banner.png" alt="Nur Hanani banner" width="100%" />
 
 </div>
