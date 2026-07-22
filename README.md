@@ -1,111 +1,113 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NUR HANANI BINTI AHMAD
-==============================================================================================================================================
+<h1 align="center">Hi, I'm Nur Hanani 👋</h1>
+<h3 align="center">Final-Year Computer Science (Graphics & Multimedia Software) Student @ UTM</h3>
 
-Games developer
----------------
-
-![photo_2024-01-20_15-31-47](https://github.com/Hynanie/Hynanie/assets/148435826/2863cfe3-39d1-4f6b-a9a0-80a8d152382d)
-
-Hi!! im a first year student of Computer Science (Graphic and Multimedia) at UTM!
-
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [hanani-04@graduate.utm.my](mailto:hanani-04@graduate.utm.my)
-* 🧠  I'm learning to create a video games.
-* 🤝  I'm open to collaboration with skilled programmers and developers to craft dynamic websites, immersive games, and cutting-edge applications that push the boundaries of technology on my portfolio.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hynanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hynanie" height="30" width="40" /></a>
-<a href="https://discord.gg/hanaefumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanaefumii" height="30" width="40" /></a>
+<p align="center">
+Game & XR developer focused on Unity, VR/AR, and AI-integrated interactive systems
 </p>
 
-# Educational Background
+---
 
-### Secondary Education
-- **Sekolah Menengah Kebangsaan Khir Johari** (2017-2021)
+### 🎯 About Me
 
-### Pre-University
-- **Kolej Matrikulasi Kedah** (2022-2023)
-
-### University Education
-- **Universiti Teknologi Malaysia** (2023-2027)
-
-# Co-curricular Activities and Achievements
-
-### High School and pre-University Involvement
-- High School Prefect (2019-2022)
-- Excellence Award in Bahasa Melayu (2018)
-- Online University Visit – Kyushu University (2021)
-- GIFTED'20-National Comic Drawing Competition (2020)
-- Fun Run Java KMK (2023)
-- Treasurer of Robotic Club (2019)
-- Art Club Committee Member (2021-2022)
-- Volleyball Club Committee Member (2020-2022)
-
-# Work Experience
-
-### Freelancer as Illustrator
-
-[Project 1](https://github.com/Hynanie/Hynanie/assets/148435826/7b566535-f508-4ad9-92ba-29ed078036cf) | 
-[Project 2](https://github.com/Hynanie/Hynanie/assets/148435826/e24228ae-ee2e-4eb5-8f9f-6c23f7762d13) | 
-[Project 3](https://github.com/Hynanie/Hynanie/assets/148435826/36ca1aef-e320-4da1-8a6e-1fb518c6e8a9) | 
-[Project 4](https://github.com/Hynanie/Hynanie/assets/148435826/de800fe1-8305-49e9-9262-30836596403b) | 
-[Project 5](https://github.com/Hynanie/Hynanie/assets/148435826/6876be5e-13d4-4d2d-8508-9915b0bf9b65) | 
-[Project 6](https://github.com/Hynanie/Hynanie/assets/148435826/3a8764b4-055e-4471-9d6b-d59c26c8ad7b) | 
-[Project 7](https://github.com/Hynanie/Hynanie/assets/148435826/874e96c1-8965-43e0-aad3-a371616d1f86) | 
-[Project 8](https://github.com/Hynanie/Hynanie/assets/148435826/e098ad85-f0ed-4420-8dc9-f6abc57e052b)
-
-
-# Self-Strength
-
-Welcome to my coding journey! 🚀 As a programmer student, I've identified key strengths and attributes that empower my learning and growth in the dynamic world of coding. Here's a glimpse into what makes me a resilient and effective programmer:
-
-### Passionate Curiosity 💡
-I approach coding challenges with an insatiable curiosity, always eager to explore new technologies and delve into innovative solutions. This passion fuels my continuous learning, driving me to stay abreast of the latest industry trends and advancements.
-
-### Problem-Solving Mindset 🧠
-With a natural inclination for problem-solving, I embrace coding as a creative process to overcome challenges. I see each bug or error as an opportunity to enhance my skills and develop robust, efficient solutions. The thrill of deciphering complex problems motivates me to push the boundaries of my programming capabilities.
-
-
-Efficient time management is crucial in the fast-paced world of programming. I excel in organizing my tasks, setting priorities, and maintaining focus to ensure productivity. This enables me to meet project deadlines and deliver high-quality code consistently.
-
-# Soft Skills
-
-Greetings! 👋 As a programming student, I recognize the significance of soft skills in complementing technical expertise. Here's a snapshot of the soft skills that define my journey as a well-rounded and effective programmer:
-
-Programming is often a collaborative effort, and I thrive in team environments. I actively contribute ideas, embrace diverse perspectives, and leverage the strengths of each team member. My collaborative spirit enhances creativity, problem-solving, and overall project success.
-
-### Adaptability to Change 🔄
-In the ever-evolving landscape of technology, adaptability is key. I welcome change, whether it's in the form of new programming languages, frameworks, or project requirements. This flexibility allows me to quickly learn and integrate new technologies, ensuring I stay relevant in the dynamic field of programming.
-
-### Time Management ⌛
-Effective time management is crucial in balancing coursework, projects, and personal growth. I prioritize tasks, set realistic deadlines, and maintain a focus on efficiency without compromising quality. This skill enables me to meet project milestones, academic deadlines, and personal goals.
-
-Feel free to connect with me for collaborative projects or discussions on the intersection of soft skills and programming. Let's build a future where technical excellence meets effective communication and collaboration! 💻✨
-
-### Skills
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hynanie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hynanie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hynanie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hynanie&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hynanie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎓 Final-year student, Bachelor of Computer Science (Graphics & Multimedia Software), Universiti Teknologi Malaysia (UTM)
+- 🎮 Building game systems, VR/AR applications, and AI-integrated tools
+- 🏆 Gold Medalist — I3DC 2026 (International Invention, Innovation & Design Competition) for **SignBridge**, a real-time sign language interpreter app
+- 🤝 Vice Director, EXPEDEA '26 — Computer Graphics & Multimedia Association (CGMA), UTM
+- 📫 Reach me at **hynanie04@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hynanie&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
 
+**Languages**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="36" height="36"/>
+</p>
 
+**Game Engines & XR**
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="36" height="36"/>
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="36" height="36"/>
+</p>
 
+**AI / ML & Frameworks**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+</p>
+
+**Design & Tools**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="36" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+*Portfolio highlights — repo links to be added once these are pushed public.*
+
+| Project | Description | Tech |
+|---|---|---|
+| **SignBridge** 🏅 | Real-time BIM sign language interpreter app — gesture-to-text via camera AI and text-to-3D animated signing avatar. Gold Medal, I3DC 2026. | Flutter, TensorFlow/Keras, AI Gesture Recognition |
+| **VR Walkthrough with AI Avatar** | Mobile VR walkthrough with binocular rendering, gaze-based interaction, and a Convai AI conversational NPC avatar. | Unity, Google VR SDK, Convai AI SDK |
+| **Gesture & Speech-Controlled UI System** | Leap Motion hand-tracking hover menu with speech-triggered character animations. | Unity, Leap Motion, Speech Recognition |
+| **DiaLink** | Club management web app for UTM Diabolo Club — member management, attendance tracking, and automated notifications. | HTML, CSS, PHP, JavaScript, Figma |
+
+---
+
+### 📂 Repositories
+
+**Portfolio & Web**
+
+| Repo | Description |
+|---|---|
+| [portfolio-](https://github.com/Hynanie/portfolio-) | Personal portfolio site — hynanie.github.io/portfolio |
+| [Portfolio_websitee](https://github.com/Hynanie/Portfolio_websitee) | Personal portfolio website build |
+| [PORTFOLIO_wEBSITE](https://github.com/Hynanie/PORTFOLIO_wEBSITE) | Earlier portfolio site iteration |
+
+**Coursework & Assignments**
+
+| Repo | Description |
+|---|---|
+| [CandyCane_Project1_SAD_20232024](https://github.com/Hynanie/CandyCane_Project1_SAD_20232024) | System Analysis & Design (SAD) course project |
+| [ASSIGNMENT-4-DESIGN-THINKING](https://github.com/Hynanie/ASSIGNMENT-4-DESIGN-THINKING) | Design Thinking coursework assignment |
+| [ASSIGNMENT-3-VIDEO-ON-VISIT-TO-UTMDIGITAL-AND-THE-VIRTUAL-TALK](https://github.com/Hynanie/ASSIGNMENT-3-VIDEO-ON-VISIT-TO-UTMDIGITAL-AND-THE-VIRTUAL-TALK) | Coursework video assignment on UTMDigital visit and virtual talk |
+| [ASSIGNMENT-2-ICT-JOBS-IN-CLARITY-TECHWORK](https://github.com/Hynanie/ASSIGNMENT-2-ICT-JOBS-IN-CLARITY-TECHWORK) | Coursework report on ICT jobs |
+| [ASSIGNMENT-1-REPORT-VISIT-TO-NALI](https://github.com/Hynanie/ASSIGNMENT-1-REPORT-VISIT-TO-NALI) | Coursework visit report |
+| [PC-ASSEMBLE](https://github.com/Hynanie/PC-ASSEMBLE) | PC assembly practical assignment |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hynanie&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hynanie&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hynanie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nur-hanani-binti-ahmad-b636333a3/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/></a>&nbsp;
+<a href="https://instagram.com/hynanie" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="32" height="32"/></a>
+</p>
