@@ -19,7 +19,7 @@
 
 <br>
 
-<img src="assets/moon.gif" width="100%" />
+<img src="assets/about-me.png" width="45%" />
 
 ## 🙋‍♀️ About
 
@@ -85,6 +85,8 @@
 
 <br>
 
+<img src="assets/moon.gif" width="100%" />
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -104,7 +106,6 @@
 <i>a little bit of life outside the editor ✨</i>
 <br/><br/>
 
-<img src="assets/about-me.png" width="45%" />
 <img src="assets/vision-board.png" width="45%" />
 <img src="assets/photo-dump.png" width="45%" />
 
