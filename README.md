@@ -17,7 +17,6 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 
 - Final-year student, Bachelor of Computer Science (Graphics & Multimedia Software), Universiti Teknologi Malaysia
 - Building game systems, VR/AR applications, and AI-integrated tools
-- Gold Medalist — I3DC 2026 (International Invention, Innovation & Design Competition) for SignBridge, a real-time sign language interpreter app
 - Vice Director, EXPEDEA '26 — Computer Graphics & Multimedia Association (CGMA), UTM
 
 <br>
