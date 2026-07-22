@@ -1,8 +1,4 @@
 <div align="center">
-  
-<img src="assets/moon.gif" width="100%" />
-
-<br/>
 
 <img src="assets/banner.png" alt="Nur Hanani banner" width="100%" />
 
@@ -23,6 +19,7 @@
 
 <br>
 
+<img src="assets/moon.gif" width="100%" />
 ## 🙋‍♀️ About
 
 - 🎓 Final-year student, Bachelor of Computer Science (Graphics & Multimedia Software), Universiti Teknologi Malaysia
