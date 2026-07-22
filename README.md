@@ -2,6 +2,10 @@
 
 <img src="assets/banner.png" alt="Nur Hanani banner" width="100%" />
 
+<br/>
+
+<img src="assets/moon.gif" width="100%" />
+
 </div>
 
 <h1 align="center">👋 Nur Hanani Binti Ahmad</h1>
@@ -68,7 +72,6 @@
 
 | Repo | Description |
 |---|---|
-| [portfolio-](https://github.com/Hynanie/portfolio-) | Personal portfolio site |
 | [Portfolio_websitee](https://github.com/Hynanie/Portfolio_websitee) | Live portfolio site, hosted on GitHub Pages |
 
 **📚 Coursework & Assignments**
@@ -103,6 +106,7 @@
 <i>a little bit of life outside the editor ✨</i>
 <br/><br/>
 
+<img src="assets/about-me.png" width="45%" />
 <img src="assets/vision-board.png" width="45%" />
 <img src="assets/photo-dump.png" width="45%" />
 
@@ -117,3 +121,9 @@
 | 💼 LinkedIn | [nur-hanani-binti-ahmad](https://www.linkedin.com/in/nur-hanani-binti-ahmad-b636333a3/) |
 | 📸 Instagram | [@hynanie](https://instagram.com/hynanie) |
 | 📧 Email | hynanie04@gmail.com |
+
+<br>
+
+<div align="center">
+<img src="assets/waves.gif" width="100%" />
+</div>
