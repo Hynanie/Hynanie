@@ -4,11 +4,11 @@
 
 </div>
 
-<h1 align="center">👋 Nur Hanani Binti Ahmad</h1>
-<h3 align="center">🎓 Final-Year Computer Science (Graphics & Multimedia Software) Student — UTM</h3>
+<h1 align="center"> Nur Hanani Binti Ahmad</h1>
+<h3 align="center">Final-Year Computer Science (Graphics & Multimedia Software) Student</h3>
 
 <p align="center">
-🎮 Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive systems
+Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive systems
 </p>
 
 <p align="center">
@@ -19,7 +19,12 @@
 
 <br>
 
+<div align="center">
+  
 <img src="assets/about-me.png" width="45%" />
+
+</div>
+
 
 ## 🙋‍♀️ About
 
