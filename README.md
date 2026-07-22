@@ -20,6 +20,7 @@
 <br>
 
 <img src="assets/moon.gif" width="100%" />
+
 ## 🙋‍♀️ About
 
 - 🎓 Final-year student, Bachelor of Computer Science (Graphics & Multimedia Software), Universiti Teknologi Malaysia
