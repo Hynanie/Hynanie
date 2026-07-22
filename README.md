@@ -1,3 +1,4 @@
+![Visitor Count](https://glitch.me)
 <div align="center">
 
 <img src="assets/banner.png" alt="Nur Hanani banner" width="100%" />
