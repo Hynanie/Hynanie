@@ -1,4 +1,5 @@
-![Visitor Count](https://glitch.me)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hynanie)
+
 <div align="center">
 
 <img src="assets/banner.png" alt="Nur Hanani banner" width="100%" />
