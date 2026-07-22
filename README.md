@@ -43,7 +43,7 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 | **[Arked Meranti — 3D Campus Tour](https://github.com/Hynanie/MWP3DModel)** (team) | Interactive browser-based 3D tour of UTM's Arked Meranti food court, with day/night lighting and first-person walk mode. My role: 3D Blender model, on-site reference research. | Three.js, Blender, Vercel |
 | **VR Walkthrough with AI Avatar** | Mobile VR walkthrough with binocular rendering, gaze-based interaction, and a Convai AI conversational NPC avatar. | Unity, Google VR SDK, Convai AI SDK |
 | **Gesture & Speech-Controlled UI System** | Leap Motion hand-tracking hover menu with speech-triggered character animations. | Unity, Leap Motion, Speech Recognition |
-| **DiaLink** | Club management web app for UTM Diabolo Club — member management, attendance tracking, and automated notifications. | HTML, CSS, PHP, JavaScript, Figma |
+| **[DiaLink](https://github.com/Hynanie/dialink)** (team) | Club management web app for UTM Diabolo Club — member management, attendance tracking, and automated notifications. | HTML, CSS, PHP, JavaScript, Figma |
 
 <br>
 
@@ -55,6 +55,7 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 |---|---|
 | [SignBridge](https://github.com/Hynanie/SignBridge) | Real-time BIM sign language interpreter app — Gold Medal, I3DC 2026 |
 | [MWP3DModel](https://github.com/Hynanie/MWP3DModel) (forked, team project) | Arked Meranti interactive 3D campus tour — Three.js |
+| [dialink](https://github.com/Hynanie/dialink) (forked, team project) | Club management web app for UTM Diabolo Club |
 
 **Portfolio & Web**
 
