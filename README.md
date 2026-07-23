@@ -78,17 +78,7 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 | Repo | Description |
 |---|---|
 | [Portfolio_websitee](https://github.com/Hynanie/Portfolio_websitee) | Live portfolio site, hosted on GitHub Pages |
-
-**📚 Coursework & Assignments**
-
-| Repo | Description |
-|---|---|
-| [CandyCane_Project1_SAD_20232024](https://github.com/Hynanie/CandyCane_Project1_SAD_20232024) | System Analysis & Design course project |
-| [ASSIGNMENT-4-DESIGN-THINKING](https://github.com/Hynanie/ASSIGNMENT-4-DESIGN-THINKING) | Design Thinking coursework |
-| [ASSIGNMENT-3-VIDEO-ON-VISIT-TO-UTMDIGITAL-AND-THE-VIRTUAL-TALK](https://github.com/Hynanie/ASSIGNMENT-3-VIDEO-ON-VISIT-TO-UTMDIGITAL-AND-THE-VIRTUAL-TALK) | Coursework video assignment |
-| [ASSIGNMENT-2-ICT-JOBS-IN-CLARITY-TECHWORK](https://github.com/Hynanie/ASSIGNMENT-2-ICT-JOBS-IN-CLARITY-TECHWORK) | Coursework report |
-| [ASSIGNMENT-1-REPORT-VISIT-TO-NALI](https://github.com/Hynanie/ASSIGNMENT-1-REPORT-VISIT-TO-NALI) | Coursework visit report |
-| [PC-ASSEMBLE](https://github.com/Hynanie/PC-ASSEMBLE) | PC assembly practical assignment |
+| [AA-portfolio](https://github.com/Hynanie/AA-portfolio) (forked, group project) | Group portfolio website |
 
 <br>
 
