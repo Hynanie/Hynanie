@@ -55,6 +55,7 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 |---|---|---|
 | **[SignBridge](https://github.com/Hynanie/SignBridge)** 🥇 | Real-time BIM sign language interpreter app. Gesture-to-text via camera AI and text-to-3D animated signing avatar. Gold Medal, I3DC 2026. | Flutter, TensorFlow/Keras, AI Gesture Recognition |
 | **[Arked Meranti — 3D Campus Tour](https://github.com/Hynanie/MWP3DModel)** 👥 | Interactive browser-based 3D tour of UTM's Arked Meranti food court, with day/night lighting and first-person walk mode. My role: 3D Blender model, on-site reference research. | Three.js, Blender, Vercel |
+| **[BabelCity](https://github.com/Hynanie/BabelCity)** 👥🌐 | Metaverse multilingual language learning platform — three cultural districts (Tokyo, Seoul, Dubai) with Convai AI NPCs, trivia quizzes, Babel Coin economy, and multiplayer via Unity Netcode. 67% FPS improvement through graphics optimisation. [Demo & materials](https://drive.google.com/drive/folders/10FEZkWBmcX_fi7KRRaIWQqZ3XNgYxlb-). | Unity 6, Convai SDK, Gemini AI, Unity Netcode, Node.js |
 | **Hover Menu UI (Leap Motion + AR)** 🔒👥 | Gesture-controlled hover menu for handheld AR — flip-palm activation, finger gestures to spawn/resize objects, synced via Photon Networking to a Vuforia AR app. [Demo video](https://youtu.be/b-dJ7OgymLs). | Unity, Leap Motion, Photon Networking, Vuforia |
 | **[DiaLink](https://github.com/Hynanie/dialink)** 👥 | Club management web app for UTM Diabolo Club — member management, attendance tracking, and automated notifications. | HTML, CSS, PHP, JavaScript, Figma |
 
@@ -69,6 +70,7 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 | [SignBridge](https://github.com/Hynanie/SignBridge) | Real-time BIM sign language interpreter app — Gold Medal, I3DC 2026 |
 | [MWP3DModel](https://github.com/Hynanie/MWP3DModel) (forked, team project) | Arked Meranti interactive 3D campus tour — Three.js |
 | [dialink](https://github.com/Hynanie/dialink) (forked, team project) | Club management web app for UTM Diabolo Club |
+| [BabelCity](https://github.com/Hynanie/BabelCity) (team project, report + video only) | Unity 6 metaverse multilingual learning platform with AI NPCs |
 | SpawnObject (private, team project) | Hover Menu UI using Leap Motion in Handheld AR — [demo video](https://youtu.be/b-dJ7OgymLs) |
 
 **🌐 Portfolio & Web**
