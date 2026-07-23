@@ -61,6 +61,8 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 
 <br>
 
+<img src="assets/moon.gif" width="100%" />
+
 ## 📂 Repositories
 
 **⭐ Featured**
@@ -81,8 +83,6 @@ Game and XR developer focused on Unity, VR/AR, and AI-integrated interactive sys
 | [AA-portfolio](https://github.com/Hynanie/AA-portfolio) (forked, group project) | Group portfolio website |
 
 <br>
-
-<img src="assets/moon.gif" width="100%" />
 
 ## 📊 GitHub Stats
 
